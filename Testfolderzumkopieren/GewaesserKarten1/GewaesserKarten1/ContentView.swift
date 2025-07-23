@@ -358,6 +358,7 @@ let gewaesser = [
         
         // Warnow
         Gewaesser(name: "Warnow (Woeten bis Barniner See)", coordinate: CLLocationCoordinate2D(latitude: 53.5400, longitude: 11.7200)),
+    Gewaesser(name: "Warnow", coordinate: CLLocationCoordinate2D(latitude: 53.8000, longitude: 11.9167)),
         
         // Mildenitz
         Gewaesser(name: "Mildenitz (Wendisch-Waren bis Goldberger See)", coordinate: CLLocationCoordinate2D(latitude: 53.5200, longitude: 12.1300)),
@@ -969,7 +970,7 @@ let gewaesser = [
         Gewaesser(name: "Torfstiche Barth", coordinate: CLLocationCoordinate2D(latitude: 54.3667, longitude: 12.7167)),
         Gewaesser(name: "Großer Teich Marlow", coordinate: CLLocationCoordinate2D(latitude: 54.1500, longitude: 12.5667)),
         Gewaesser(name: "Barthe", coordinate: CLLocationCoordinate2D(latitude: 54.3667, longitude: 12.7167)),
-    Gewaesser(name: "Recknitz", coordinate: CLLocationCoordinate2D(latitude: 53.4937, longitude: 12.2653)),
+    Gewaesser(name: "Recknitz", coordinate: CLLocationCoordinate2D(latitude: 54.0500, longitude: 12.5500)),
         Gewaesser(name: "Saaler Bach", coordinate: CLLocationCoordinate2D(latitude: 54.3167, longitude: 12.5000)),
         Gewaesser(name: "Badeanstalt Grimmen", coordinate: CLLocationCoordinate2D(latitude: 54.1167, longitude: 13.0500)),
         Gewaesser(name: "Hechtteich Mannhagen", coordinate: CLLocationCoordinate2D(latitude: 54.2000, longitude: 13.1833)),
@@ -1038,7 +1039,7 @@ let gewaesser = [
         Gewaesser(name: "Ryckgraben / Ryck", coordinate: CLLocationCoordinate2D(latitude: 54.0833, longitude: 13.4333)),
         Gewaesser(name: "Rienegraben", coordinate: CLLocationCoordinate2D(latitude: 54.0833, longitude: 13.4333)),
         Gewaesser(name: "Landgraben", coordinate: CLLocationCoordinate2D(latitude: 53.6667, longitude: 13.5500)),
-        Gewaesser(name: "Peene", coordinate: CLLocationCoordinate2D(latitude: 53.8500, longitude: 13.7000)),
+    Gewaesser(name: "Peene", coordinate: CLLocationCoordinate2D(latitude: 53.8500, longitude: 13.7000)),
         Gewaesser(name: "Kanal zur Uecker", coordinate: CLLocationCoordinate2D(latitude: 53.7333, longitude: 14.0167)),
     Gewaesser(name: "Ueckermünder Heide", coordinate: CLLocationCoordinate2D(latitude: 53.7333, longitude: 14.0667)),
         Gewaesser(name: "Tongrube Bärenkamp", coordinate: CLLocationCoordinate2D(latitude: 53.6833, longitude: 14.0833)),
